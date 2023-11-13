@@ -1,0 +1,22 @@
+h1 {
+    font-family: "nova fonte";
+    
+}
+
+h2 {
+    font-family: "nova fonte";
+}
+
+
+@font-face {
+    font-family: "nova fonte";
+    src: url(Spongeboy\ Me\ Bob.ttf);
+}
+
+
+.container img {
+    display: block;
+    margin: auto;
+    width: 20%;
+    
+}
